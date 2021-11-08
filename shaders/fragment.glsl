@@ -1,11 +1,11 @@
-uniform float time;
-uniform float progress;
-uniform sampler2D texture1;
-uniform sampler2D texture2;
-uniform vec4 resolution;
+// uniform float time;
+// uniform float progress;
+// uniform sampler2D texture1;
+// uniform sampler2D texture2;
+// uniform vec4 resolution;
 
-varying vec2 vUv;
-varying float vFrontShadow;
+// varying vec2 vUv;
+// varying float vFrontShadow;
 // varying float vBackShadow;
 // varying float vProgress;
 
